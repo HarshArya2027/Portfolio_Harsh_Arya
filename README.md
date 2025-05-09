@@ -18,8 +18,8 @@ This is the source code for my personal portfolio website. It showcases my proje
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla or framework like React)
-- **Styling**: Tailwind CSS / Bootstrap / Custom CSS (based on your choice)
-- **Deployment**: GitHub Pages / Vercel / Netlify
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Styling**: Tailwind CSS 
+- **Deployment**: GitHub Pages 
 
 ---
